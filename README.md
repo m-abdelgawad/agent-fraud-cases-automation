@@ -19,7 +19,8 @@
       <a href="#about-the-project">About The Project</a>
       <ul>
         <li><a href="#business-case">Business Case</a></li>
-        <li><a href="#technical-solution">Technical Solution</a></li
+        <li><a href="#technical-solution">Technical Solution</a></li>
+        <li><a href="#feedback">Feedback</a></li>
         <li><a href="#flowchart">Flowchart</a></li>
         <li><a href="#tech-stack">Tech Stack</a></li>
       </ul>
@@ -60,6 +61,14 @@ Due to concerns about data integrity, the security committee recommended against
 Finally, I developed an automated mail report and SMS to communicate the status of each execution, meeting the specific requirements of the Anti-Fraud team.
 
 <img src="readme_files/design.jpg">
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+### Feedback
+
+<img src="readme_files/feedback1.png">
+<img src="readme_files/feedback2.png">
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
